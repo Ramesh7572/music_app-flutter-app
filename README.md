@@ -1,4 +1,4 @@
-# music_app firat task Done
+# music_app first task Done
 
 A new Flutter project.
 
